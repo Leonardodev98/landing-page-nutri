@@ -18,4 +18,4 @@ Este projeto tem como objetivo a criação de uma landing page responsiva para u
 O projeto faz parte de um trabalho da faculdade, onde o objetivo é aplicar os conceitos de Web Standards para a criação de páginas responsivas, com um design funcional e agradável. 
 
 ## Como Acessar
-A página está hospedada no Netlify. Para visualizá-la, acesse [aqui](https://exemplo-de-link.netlify.app).
+A página está hospedada no Netlify. Para visualizá-la, acesse [aqui](https://landing-page-nutri.netlify.app/).
